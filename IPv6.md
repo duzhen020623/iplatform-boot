@@ -5,7 +5,7 @@
 | 名称                         | 版本 | 支持 |
 | ---------------------------- | ---- | ---- |
 | ActiveMQ                     |      | Y    |
-| [MySQL](#user-content-mysql) |      |      |
+| [MySQL](#user-content-mysql) | 5.6.40     |     Y |
 | Redis                        |      |      |
 | Kafka                        |      |      |
 | Zookeeper                    |      |      |
